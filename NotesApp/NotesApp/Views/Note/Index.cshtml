@@ -1,0 +1,44 @@
+﻿@model IEnumerable<NotesApp.Models.Note>
+
+@{ 
+    ViewData["Title"] = "Note";
+}
+
+
+<h1 class="text-dark font-weight-bold text-center">Welcome to the Notes App</h1>
+<div class="row" style="height:100vh;">
+    <div class="col-3 bg-dark" style="height:100vh;">
+        <ul class="list-group mt-3">
+            @if (Model.Count() > 0)
+            {
+                @foreach (var note in Model)
+                {
+                    <a asp-action="Details" asp-route-id="@note.Id" class="list-group-item bg-transparent text-white font-weight-bold btn-light">@note.Title</a>
+                }
+            }
+
+        </ul>
+    </div>
+
+    <div class="col bg-light" style="height:100vh;">
+        @if (Model.Count() > 0)
+        {
+        <div class="row mt-3">
+            @foreach (var note in Model)
+            {
+                <div class="col-3">
+                    <div class="card" style="width: 18rem;">
+                        <div class="card-body">
+                            <a asp-controller="Note" asp-action="Details" asp-route-id="@note.Id" class="card-title h4 text-decoration-none text-dark pt-6 mt-1">@note.Title (@note.NoteType.Name)</a>
+                            <h6 class="card-subtitle text-muted mt-3">Created by: @note.Creator</h6>
+                            <p class="card-text mt-3">@note.Content.Substring(0, 40)</p>
+                            <a href="#" class="card-link text-info float-left">Rename Your Note</a>
+                            <a href="#" class="card-link text-danger float-right">Delete</a>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+        }
+    </div>
+</div>

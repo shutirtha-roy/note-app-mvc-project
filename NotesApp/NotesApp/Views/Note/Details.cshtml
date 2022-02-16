@@ -1,0 +1,36 @@
+﻿@model Note
+
+<div class="row text-center">
+    <div class="col-12">
+
+        <div class="row">
+            <div class="col-12">
+                <h1 class="h1">@Model.Title</h1>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-12">
+                <h1 class="h4">Category: @Model.NoteType.Name</h1>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-12">
+                <h1 class="h4 text-dark">Created By: @Model.Creator</h1>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-12">
+                <h1 class="h6 text-dark">Times Read: @Model.ReadCount</h1>
+            </div>
+        </div>
+
+        <div class="row text-left">
+            <div class="col-12">
+                <p class="p-3 m-4 h4">@Model.Content</p>
+            </div>
+        </div>
+    </div>
+</div>
