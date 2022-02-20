@@ -387,3 +387,4 @@ F:\Development\ASP .NET\Projects\NotesApp\NotesApp\obj\Debug\net5.0\NotesApp.gen
 F:\Development\ASP .NET\Projects\NotesApp\NotesApp\obj\Debug\net5.0\Razor\Views\Note\Create.cshtml.g.cs
 F:\Development\ASP .NET\Projects\NotesApp\NotesApp\obj\Debug\net5.0\Razor\Views\Note\Index.cshtml.g.cs
 F:\Development\ASP .NET\Projects\NotesApp\NotesApp\obj\Debug\net5.0\Razor\Views\Note\Details.cshtml.g.cs
+F:\Development\ASP .NET\Projects\NotesApp\NotesApp\obj\Debug\net5.0\Razor\Views\Note\Update.cshtml.g.cs

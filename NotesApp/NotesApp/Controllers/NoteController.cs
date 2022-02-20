@@ -99,22 +99,53 @@ namespace NotesApp.Controllers
                 return NotFound();
             }
 
-            return View(obj);
+            //return View(obj);
+
+            NoteVM noteVM = new NoteVM()
+            {
+                Note = obj,
+                TypeDropDown = _db.NoteTypes.Select(i => new SelectListItem
+                {
+                    Text = i.Name,
+                    Value = i.Id.ToString()
+                })
+            };
+
+            return View(noteVM);
+
+
         }
 
         //POST-Update
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public IActionResult Update(Note obj)
+        public IActionResult Update(NoteVM obj)
         {
             if (ModelState.IsValid)
             {
-                _db.Notes.Update(obj);
+                _db.Notes.Update(obj.Note);
                 _db.SaveChanges();
 
                 return RedirectToAction("Index");
             }
             return View(obj);
+        }
+
+
+
+        //GET Delete
+        public IActionResult Delete(int? id)
+        {
+            var obj = _db.Notes.Find(id);
+            if (obj == null)
+            {
+                return NotFound();
+            }
+
+            _db.Notes.Remove(obj);
+            _db.SaveChanges();
+
+            return RedirectToAction("Index");
         }
     }
 }
