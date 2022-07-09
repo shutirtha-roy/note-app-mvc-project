@@ -66,6 +66,10 @@ namespace NotesApp.Controllers
         public IActionResult Details(int id)
         {
             var noteDetails = _db.Notes.Find(id);
+
+            if (noteDetails == null)
+                return View("Not Found");
+
             noteDetails.ReadCount += 1;
             _db.SaveChanges();
 
@@ -76,12 +80,6 @@ namespace NotesApp.Controllers
                 obj.NoteType = _db.NoteTypes.FirstOrDefault(u => u.Id == obj.NoteTypeId);
             }
 
-
-            if (noteDetails == null)
-            {
-                return View("Not Found");
-            }
-
             return View(noteDetails);
         }
 
@@ -90,16 +88,12 @@ namespace NotesApp.Controllers
         public IActionResult Update(int? id)
         {
             if (id == null || id == 0)
-            {
                 return NotFound();
-            }
-            var obj = _db.Notes.Find(id);
-            if (obj == null)
-            {
-                return NotFound();
-            }
 
-            //return View(obj);
+            var obj = _db.Notes.Find(id);
+
+            if (obj == null)
+                return NotFound();
 
             NoteVM noteVM = new NoteVM()
             {
