@@ -1,0 +1,15 @@
+F:\Development\ASP .NET\Projects\Extra\note-app-mvc-project\NotesApp\NotesApp.DataAccess\obj\Debug\net5.0\NotesApp.DataAccess.csproj.AssemblyReference.cache
+F:\Development\ASP .NET\Projects\Extra\note-app-mvc-project\NotesApp\NotesApp.DataAccess\obj\Debug\net5.0\NotesApp.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\ASP .NET\Projects\Extra\note-app-mvc-project\NotesApp\NotesApp.DataAccess\obj\Debug\net5.0\NotesApp.DataAccess.AssemblyInfoInputs.cache
+F:\Development\ASP .NET\Projects\Extra\note-app-mvc-project\NotesApp\NotesApp.DataAccess\obj\Debug\net5.0\NotesApp.DataAccess.AssemblyInfo.cs
+F:\Development\ASP .NET\Projects\Extra\note-app-mvc-project\NotesApp\NotesApp.DataAccess\obj\Debug\net5.0\NotesApp.DataAccess.csproj.CoreCompileInputs.cache
+F:\Development\ASP .NET\Projects\Extra\note-app-mvc-project\NotesApp\NotesApp.DataAccess\bin\Debug\net5.0\NotesApp.DataAccess.deps.json
+F:\Development\ASP .NET\Projects\Extra\note-app-mvc-project\NotesApp\NotesApp.DataAccess\bin\Debug\net5.0\NotesApp.DataAccess.dll
+F:\Development\ASP .NET\Projects\Extra\note-app-mvc-project\NotesApp\NotesApp.DataAccess\bin\Debug\net5.0\ref\NotesApp.DataAccess.dll
+F:\Development\ASP .NET\Projects\Extra\note-app-mvc-project\NotesApp\NotesApp.DataAccess\bin\Debug\net5.0\NotesApp.DataAccess.pdb
+F:\Development\ASP .NET\Projects\Extra\note-app-mvc-project\NotesApp\NotesApp.DataAccess\bin\Debug\net5.0\NotesApp.Models.dll
+F:\Development\ASP .NET\Projects\Extra\note-app-mvc-project\NotesApp\NotesApp.DataAccess\bin\Debug\net5.0\NotesApp.Models.pdb
+F:\Development\ASP .NET\Projects\Extra\note-app-mvc-project\NotesApp\NotesApp.DataAccess\obj\Debug\net5.0\NotesApp.DataAccess.csproj.CopyComplete
+F:\Development\ASP .NET\Projects\Extra\note-app-mvc-project\NotesApp\NotesApp.DataAccess\obj\Debug\net5.0\NotesApp.DataAccess.dll
+F:\Development\ASP .NET\Projects\Extra\note-app-mvc-project\NotesApp\NotesApp.DataAccess\obj\Debug\net5.0\ref\NotesApp.DataAccess.dll
+F:\Development\ASP .NET\Projects\Extra\note-app-mvc-project\NotesApp\NotesApp.DataAccess\obj\Debug\net5.0\NotesApp.DataAccess.pdb

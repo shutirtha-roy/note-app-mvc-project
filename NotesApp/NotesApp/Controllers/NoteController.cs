@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
-using NotesApp.Data;
+using NotesApp.DataAccess;
 using NotesApp.Models;
 using NotesApp.Models.ViewModels;
 using System;

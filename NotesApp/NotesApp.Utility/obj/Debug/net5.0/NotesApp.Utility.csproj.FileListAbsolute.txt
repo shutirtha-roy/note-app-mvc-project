@@ -1,0 +1,11 @@
+F:\Development\ASP .NET\Projects\Extra\note-app-mvc-project\NotesApp\NotesApp.Utility\bin\Debug\net5.0\NotesApp.Utility.deps.json
+F:\Development\ASP .NET\Projects\Extra\note-app-mvc-project\NotesApp\NotesApp.Utility\bin\Debug\net5.0\NotesApp.Utility.dll
+F:\Development\ASP .NET\Projects\Extra\note-app-mvc-project\NotesApp\NotesApp.Utility\bin\Debug\net5.0\ref\NotesApp.Utility.dll
+F:\Development\ASP .NET\Projects\Extra\note-app-mvc-project\NotesApp\NotesApp.Utility\bin\Debug\net5.0\NotesApp.Utility.pdb
+F:\Development\ASP .NET\Projects\Extra\note-app-mvc-project\NotesApp\NotesApp.Utility\obj\Debug\net5.0\NotesApp.Utility.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\ASP .NET\Projects\Extra\note-app-mvc-project\NotesApp\NotesApp.Utility\obj\Debug\net5.0\NotesApp.Utility.AssemblyInfoInputs.cache
+F:\Development\ASP .NET\Projects\Extra\note-app-mvc-project\NotesApp\NotesApp.Utility\obj\Debug\net5.0\NotesApp.Utility.AssemblyInfo.cs
+F:\Development\ASP .NET\Projects\Extra\note-app-mvc-project\NotesApp\NotesApp.Utility\obj\Debug\net5.0\NotesApp.Utility.csproj.CoreCompileInputs.cache
+F:\Development\ASP .NET\Projects\Extra\note-app-mvc-project\NotesApp\NotesApp.Utility\obj\Debug\net5.0\NotesApp.Utility.dll
+F:\Development\ASP .NET\Projects\Extra\note-app-mvc-project\NotesApp\NotesApp.Utility\obj\Debug\net5.0\ref\NotesApp.Utility.dll
+F:\Development\ASP .NET\Projects\Extra\note-app-mvc-project\NotesApp\NotesApp.Utility\obj\Debug\net5.0\NotesApp.Utility.pdb

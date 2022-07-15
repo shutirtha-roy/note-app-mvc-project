@@ -1,0 +1,12 @@
+F:\Development\ASP .NET\Projects\Extra\note-app-mvc-project\NotesApp\NotesApp.Models\obj\Debug\net5.0\NotesApp.Models.csproj.AssemblyReference.cache
+F:\Development\ASP .NET\Projects\Extra\note-app-mvc-project\NotesApp\NotesApp.Models\obj\Debug\net5.0\NotesApp.Models.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\ASP .NET\Projects\Extra\note-app-mvc-project\NotesApp\NotesApp.Models\obj\Debug\net5.0\NotesApp.Models.AssemblyInfoInputs.cache
+F:\Development\ASP .NET\Projects\Extra\note-app-mvc-project\NotesApp\NotesApp.Models\obj\Debug\net5.0\NotesApp.Models.AssemblyInfo.cs
+F:\Development\ASP .NET\Projects\Extra\note-app-mvc-project\NotesApp\NotesApp.Models\obj\Debug\net5.0\NotesApp.Models.csproj.CoreCompileInputs.cache
+F:\Development\ASP .NET\Projects\Extra\note-app-mvc-project\NotesApp\NotesApp.Models\bin\Debug\net5.0\NotesApp.Models.deps.json
+F:\Development\ASP .NET\Projects\Extra\note-app-mvc-project\NotesApp\NotesApp.Models\bin\Debug\net5.0\NotesApp.Models.dll
+F:\Development\ASP .NET\Projects\Extra\note-app-mvc-project\NotesApp\NotesApp.Models\bin\Debug\net5.0\ref\NotesApp.Models.dll
+F:\Development\ASP .NET\Projects\Extra\note-app-mvc-project\NotesApp\NotesApp.Models\bin\Debug\net5.0\NotesApp.Models.pdb
+F:\Development\ASP .NET\Projects\Extra\note-app-mvc-project\NotesApp\NotesApp.Models\obj\Debug\net5.0\NotesApp.Models.dll
+F:\Development\ASP .NET\Projects\Extra\note-app-mvc-project\NotesApp\NotesApp.Models\obj\Debug\net5.0\ref\NotesApp.Models.dll
+F:\Development\ASP .NET\Projects\Extra\note-app-mvc-project\NotesApp\NotesApp.Models\obj\Debug\net5.0\NotesApp.Models.pdb
